@@ -4,9 +4,12 @@ title: "Samenvattingen verplichte literatuur – Schakelprogramma MaBaO (UAntwer
 
 # Lees dit eerst
 
-- Deze samenvattingen zijn **geschreven vanuit algemene kennis van de werken**, niet op basis van de PDF's of boeken zelf (de bronnen konden niet online opgehaald worden). Gebruik ze als **studiehulp en overzicht**, niet als vervanging van de tekst.
-- Bij een ⚠️ ben ik minder zeker van de precieze inhoud (bv. welke hoofdstukken jouw docent bedoelt, of recente Vlaamse uitgaven). Controleer die onderdelen zeker met de bron of de lesslides.
+- De volledige teksten konden niet gedownload worden: de netwerkinstellingen van de omgeving blokkeren de websites. Wel kon ik **online zoeken**. Daarmee heb ik vooral de onzekere delen (inhoudstafels, aanbevelingen, principes) **gecontroleerd en verbeterd**.
+- ✅ = structuur of kerninhoud online gecontroleerd (inhoudstafels, officiële samenvattingen, uitgeverspagina's).
+- ⚠️ = slechts deels gecontroleerd. Vergelijk met het boek of de lesslides.
+- Zonder markering = een bekend wetenschappelijk artikel, samengevat vanuit algemene kennis van de tekst (betrouwbaar, maar niet regel per regel nagelezen).
 - Per tekst vind je: **Kern**, **Belangrijkste begrippen** en **Examenvragen om jezelf te testen**.
+- Achteraan staat een **bronnenlijst** met de pagina's die ik online gebruikte.
 
 ---
 
@@ -151,153 +154,262 @@ Deze hoofdstukken behandelen de **drie codeerstappen van grounded theory**. Door
 
 # 2. Basisprincipes van beleid in educatieve organisaties
 
-## 2.1 Vanhoof & Van Petegem (2017) – Doeltreffend schoolbeleid ⚠️
+## 2.1 Vanhoof & Van Petegem (2017) – Doeltreffend schoolbeleid ✅ (structuur online gecontroleerd)
 
-**Kern.** Dit praktijkboek gaat over het **beleidsvoerend vermogen** van scholen: het vermogen van een school om haar beleid zo vorm te geven dat de **onderwijskwaliteit stijgt**. In Vlaanderen is dat ook een centraal begrip voor de onderwijsinspectie.
+**Kern.** Dit praktijkboek (Acco, ±235 p.) is een herwerking van *Pei/ijlen naar succesvol schoolbeleid* (2006). Het draait rond het **beleidsvoerend vermogen** van scholen: de mate waarin een school erin slaagt haar beleid zo te voeren dat de **onderwijskwaliteit verbetert**. Dat is ook een kernbegrip van de Vlaamse onderwijsinspectie.
 
-**Centrale ideeën:**
-- **Beleid** = een doelbewuste, systematische en cyclische aanpak, het tegenovergestelde van ad hoc reageren.
-- **Kwaliteitscyclus**: van plannen en uitvoeren naar evalueren en bijsturen (PDCA-logica).
-- **Zelfevaluatie** en **gebruik van data** (bv. leerlingresultaten, bevragingen, feedback) als motor van verbetering.
-- **Visie en gedeelde doelen**: het beleid vertrekt vanuit een gedragen pedagogisch project.
-- Belang van **draagvlak, participatie en professionele samenwerking** (de school als lerende organisatie of professionele leergemeenschap).
-- Rol van **(gedeeld) leiderschap**: richting geven, mensen ontwikkelen en de organisatie (her)inrichten.
-- Rekening houden met de **context**: leerlingenpopulatie, regelgeving, middelen.
-- Beleid als **balans tussen interne en externe kwaliteitszorg**: wat de school zelf wil versus verwachtingen van overheid, inspectie en ouders.
+**De 8 dragers van beleidsvoerend vermogen** (volgens de auteurs doorslaggevend voor geslaagd schoolbeleid):
+1. **Doeltreffende communicatie**: informatie stroomt vlot, open en tijdig, in alle richtingen.
+2. **Ondersteunende professionele en persoonlijke relaties**: vertrouwen, collegialiteit, samenwerking.
+3. **Gedeeld leiderschap**: leiderschap ligt niet alleen bij de directeur. Ook middenkader en leraren nemen verantwoordelijkheid.
+4. **Gezamenlijke doelgerichtheid**: een gedeelde visie en gedeelde doelen die richting geven aan het handelen.
+5. **Responsief vermogen**: de school speelt in op signalen en verwachtingen van buitenaf (overheid, ouders, samenleving, inspectie) zonder haar eigen koers te verliezen.
+6. **Innovatievermogen**: openheid voor vernieuwing en de capaciteit om veranderingen door te voeren.
+7. **Geïntegreerd beleid**: beleidsdomeinen en initiatieven sluiten op elkaar aan. Er is samenhang in plaats van losse projecten.
+8. **Reflectief vermogen**: de school onderzoekt systematisch haar eigen werking (zelfevaluatie, gebruik van data) en stuurt bij. Dit is de kwaliteitszorgcyclus.
 
-**Test jezelf:** Wat is beleidsvoerend vermogen? Hoe kan een school haar eigen kwaliteit systematisch bewaken?
+**Drie basisdragers.** In het eerdere werk (2006) worden **gedeeld leiderschap, ondersteunende relaties en doeltreffende communicatie** beschouwd als de drie **essentiële basisdragers**. Zonder die drie komen de andere moeilijk tot stand.
 
-## 2.2 Hoy & Miskel (2012) – Educational Administration, H3 & H5 ⚠️
+**Verder in het boek:**
+- Waar komt het begrip beleidsvoerend vermogen vandaan?
+- Hoe beïnvloeden **schoolcultuur en schoolorganisatie** het gedrag van personeelsleden?
+- **Reflectie-oefeningen** per drager.
+- Een **gevalideerde vragenlijst** om het beleidsvoerend vermogen van de eigen school in kaart te brengen, als startpunt voor schoolontwikkeling.
 
-Controleer de hoofdstuktitels in jouw editie (9e editie). Volgens mijn kennis gaat **H3** over leren en onderwijzen in scholen en **H5** over het individu in de school (motivatie).
+**Test jezelf:** Noem de acht dragers. Welke drie zijn de basisdragers en waarom? Pas twee dragers toe op een school die je kent.
 
-**H3 – Leren en onderwijzen.** Scholen hebben als kernproces leren. Leidinggevenden moeten de leertheorieën kennen:
-- **Behaviorisme**: bekrachtiging, gedragsdoelen, directe instructie.
-- **Cognitivisme / informatieverwerking**: werkgeheugen en langetermijngeheugen, schema's, cognitieve belasting.
-- **Constructivisme**: actieve kennisconstructie, sociaal leren (Vygotsky), onderzoekend leren.
+## 2.2 Hoy & Miskel (2012) – Educational Administration, H3 & H5 ✅ (hoofdstuktitels online gecontroleerd)
 
-Elke theorie heeft gevolgen voor de manier van lesgeven en voor het schoolbeleid.
+Volgens de inhoudstafel van de 9e editie: **H3 = Structure in Schools**, **H5 = Organizational Culture of Schools**.
 
-**H5 – Individuen in scholen: motivatie.**
-- **Inhoudstheorieën**:
-  - Maslow (behoeftehiërarchie)
-  - Herzberg (motivatoren vs. hygiënefactoren)
-- **Procestheorieën**:
-  - **verwachtingstheorie** (Vroom: verwachting × instrumentaliteit × valentie)
-  - **doelstellingstheorie** (Locke: specifieke, uitdagende doelen + feedback)
-  - **attributietheorie** (Weiner)
-  - **self-efficacy** (Bandura)
-  - **rechtvaardigheidstheorie** (*equity*)
-- Toepassing: hoe leidinggevenden de motivatie van leraren kunnen versterken.
+### H3 – Structuur in scholen
 
-**Test jezelf:** Leg het verschil uit tussen inhouds- en procestheorieën van motivatie, met een voorbeeld uit een basisschool.
+**Weber en de bureaucratie.** Een bureaucratie heeft de volgende kenmerken:
+- arbeidsdeling en specialisatie
+- onpersoonlijkheid
+- een gezagshiërarchie
+- regels en procedures (formalisering)
+- een carrièregerichtheid
 
-## 2.3 Valcke, Standaert, Tuytens & Vanderlinde (2023) – Onderwijsbeleid in Vlaanderen ⚠️
+Weber zag dit als de meest efficiënte organisatievorm. **Kritiek:** de bureaucratie heeft ook disfuncties (rigiditeit, vervreemding, verveling) en houdt geen rekening met de informele organisatie.
 
-**Kern.** Het boek geeft een overzicht van het **Vlaamse onderwijslandschap en onderwijsbeleid op macroniveau**. De derde, herwerkte uitgave verwerkt de recente hervormingen.
+**Enabling vs. hindering structuur** (Hoy & Sweetland, 2000). Bureaucratie is niet per se slecht. Het hangt af van *hoe* formalisering en centralisatie werken:
+- Een **enabling** (ondersteunende) structuur helpt leraren problemen op te lossen. Ze is flexibel, kent samenwerking, en regels zijn hulpmiddelen.
+- Een **hindering** (belemmerende, dwingende) structuur dwingt naleving af, controleert en straft, en bewaakt de macht van de top.
+- Een enabling structuur hangt samen met vertrouwen, minder rolconflict en een sterkere collectieve efficacy.
 
-**Belangrijke thema's:**
-- **Vrijheid van onderwijs** (art. 24 Grondwet), de onderwijs**netten** (GO!, officieel gesubsidieerd onderwijs, vrij gesubsidieerd onderwijs) en de **koepels**.
-- **Actoren**:
-  - minister en Departement Onderwijs
-  - AHOVOKS
-  - de **onderwijsinspectie** (referentiekader OK)
+**Mintzberg: vijf basisonderdelen van een organisatie:**
+- **strategische top** (directie, bestuur)
+- **middenlijn** (middenkader)
+- **operationele kern** (leraren)
+- **technostructuur** (planners, analisten)
+- **ondersteunende staf**
+
+Daaruit volgen structuurconfiguraties: eenvoudige structuur, machinebureaucratie, **professionele bureaucratie** (typisch voor scholen), divisiestructuur en adhocratie.
+
+**Loose vs. tight coupling.** Onderdelen van een school kunnen losjes of strak gekoppeld zijn. Lesgeven in de klas is bv. vaak losjes gekoppeld aan de directie. Beide vormen hebben voor- en nadelen en komen allebei voor in scholen.
+
+**Professionele vs. bureaucratische oriëntatie.** Er is een fundamentele spanning tussen twee vormen van sociale controle:
+- **bureaucratische controle**: hiërarchie en regels
+- **professionele controle**: expertise, autonomie, collegiale normen
+
+Leraren zijn professionals in een bureaucratische organisatie, wat tot conflicten kan leiden.
+
+### H5 – Organisatiecultuur van scholen
+
+**Wat is cultuur?** De gedeelde oriëntaties die een organisatie samenhouden en haar een eigen identiteit geven. Cultuur kan je bekijken op meerdere niveaus (naar Schein):
+1. **Artefacten**: zichtbaar gedrag, rituelen, symbolen.
+2. **Gedeelde waarden en normen**.
+3. **Basisveronderstellingen**: onbewust en vanzelfsprekend, het diepste niveau.
+
+**Cultuur vs. klimaat.** Cultuur gaat over gedeelde *opvattingen en veronderstellingen* (antropologisch). Klimaat gaat over gedeelde *percepties van gedrag* (psychologisch).
+
+**Drie schoolculturen die leerprestaties bevorderen:**
+- **Cultuur van efficacy**: **collectieve efficacy** is de overtuiging van het team dat het samen een positief verschil kan maken voor leerlingen. Ze is gebaseerd op Bandura.
+- **Cultuur van vertrouwen**: vertrouwen van leraren in collega's, de directie, leerlingen en ouders. Vertrouwen veronderstelt welwillendheid, betrouwbaarheid, competentie, eerlijkheid en openheid.
+- **Cultuur van academische nadruk** (*academic emphasis*): de school stelt hoge maar haalbare doelen en legt de nadruk op leren.
+
+**Academisch optimisme** = de combinatie van die drie (efficacy, vertrouwen in leerlingen en ouders, academische nadruk) als één **collectieve overtuiging** van het team.
+- De drie elementen versterken elkaar: vertrouwen bevordert efficacy, efficacy versterkt het vertrouwen, en beide stimuleren de academische nadruk.
+- Academisch optimisme voorspelt leerprestaties, **ook los van de SES** van de leerlingen.
+- Link met de cursus Sociologie: Lelieur e.a. (2023) over het academisch optimisme van leraren.
+
+**Test jezelf:** Wat is het verschil tussen een enabling en een hindering structuur? Leg academisch optimisme uit en waarom het belangrijk is voor gelijke kansen.
+
+## 2.3 Valcke, Standaert, Tuytens & Vanderlinde (2023) – Onderwijsbeleid in Vlaanderen ⚠️ (structuur deels gecontroleerd)
+
+**Over het boek.** Acco, 2023, 324 p., derde herwerkte uitgave. Het boek geeft inzicht in de **basispijlers van het Vlaamse onderwijsbeleid**: **schoolautonomie, vrijheid van onderwijs, responsabilisering (verantwoording) en participatie**. Daarnaast beschrijft het de actuele, complexe structuur van het Vlaamse onderwijs.
+
+**Opbouw in pijlers.** Volgens studentensamenvattingen is het boek opgebouwd rond pijlers. De invulling hieronder is mijn eigen reconstructie; controleer die met het boek.
+- **Basispijlers**: de fundamentele principes, zoals **vrijheid van onderwijs** (art. 24 Grondwet), schoolautonomie, responsabilisering en participatie.
+- **Horizontale pijlers**: structuren en actoren die het hele onderwijs doorkruisen. Bv.:
+  - onderwijs**netten** en koepels (GO!, officieel en vrij gesubsidieerd onderwijs)
+  - overheid en Departement, AHOVOKS
+  - **onderwijsinspectie** (referentiekader OK)
   - pedagogische begeleidingsdiensten
-  - CLB's
-  - LOP's
-  - de Vlaamse Onderwijsraad (VLOR)
-- **Beleidsinstrumenten**:
-  - regelgeving (decreten)
-  - financiering (werkingsmiddelen, omkadering, SES-middelen)
-  - **eindtermen en minimumdoelen**
-  - kwaliteitszorg
-  - **Vlaamse toetsen**
-- **Gelijke kansen**: GOK-beleid, inschrijvingsbeleid, M-decreet → **decreet leersteun**.
-- **Leraren**: lerarenopleiding, lerarentekort, professionalisering.
-- **Kwaliteitsdebat**: dalende resultaten in **PISA, PIRLS en TIMSS**, de commissie-Beter Onderwijs, en de spanning tussen autonomie en sturing.
-- **Beleidsprocessen**: agendasetting, beleidsvorming, implementatie en evaluatie.
+  - CLB's, LOP's
+  - VLOR en inspraakorganen (schoolraad)
+  - financiering en omkadering
+- **Verticale pijlers**: de onderwijsniveaus. Basisonderwijs (kleuter en lager), secundair onderwijs (modernisering, eerste graad, onderwijsvormen), buitengewoon onderwijs, hoger onderwijs en volwassenenonderwijs, telkens met hun eigen regelgeving.
+- **Diagonale pijler**: thema's die dwars door alles heen lopen. Bv.:
+  - eindtermen en minimumdoelen, leerplannen
+  - **kwaliteitszorg**
+  - **gelijke onderwijskansen** (GOK, inschrijvingsrecht)
+  - zorg en leersteun (M-decreet → **decreet leersteun**)
+  - het lerarenberoep en de lerarenopleiding
 
-**Test jezelf:** Welke rol speelt de vrijheid van onderwijs in de manier waarop de Vlaamse overheid onderwijs stuurt?
+**Actuele beleidsdebatten** (het boek is van 2023):
+- dalende resultaten in **PISA, PIRLS en TIMSS**
+- de commissie-Beter Onderwijs (2021)
+- de invoering van **Vlaamse toetsen**
+- het lerarentekort
+- de spanning tussen **autonomie en centrale sturing**
+
+**Test jezelf:** Wat houdt de vrijheid van onderwijs in? Hoe beperkt ze de sturingsmogelijkheden van de overheid? Wat is responsabilisering?
 
 ---
 
 # 3. Sociologische perspectieven op interculturaliteit en de lerende samenleving
 
-## 3.1 Demanet, Van Houtte & Vermeulen (2024) – Sociologen over onderwijs ⚠️
+## 3.1 Demanet, Van Houtte & Vermeulen (2024) – Sociologen over onderwijs ⚠️ (deels gecontroleerd)
 
-De hoofdstukken 2, 4, 5, 6 en 16 hoef je niet te kennen. Ik weet niet exact welke hoofdstukken welke thema's dekken, daarom volgt hieronder een overzicht van de **kernthema's** van zo'n handboek.
+**Over het boek.** Garant, 2024, derde gewijzigde druk, 454 p. Het is een bundel van een dertigtal onderwijsonderzoekers uit Vlaanderen en Nederland, met als ondertitel *inzichten, praktijken en kritieken*.
 
-**Klassieke perspectieven:**
-- **Functionalisme** (Durkheim, Parsons, Davis & Moore): onderwijs dient voor socialisatie en selectie, en houdt de **meritocratie** in stand.
-- **Conflictperspectief** (Marx, Bowles & Gintis): onderwijs **reproduceert ongelijkheid**. Volgens de **correspondentiethese** weerspiegelt de school de verhoudingen op de arbeidsmarkt.
+**Niet te kennen:** H2, 4, 5, 6 en 16. Online vond ik dat **H16 = Veenstra & Huitsing, "Sociale ontwikkeling en groepsprocessen in de klas"**. Dat hoofdstuk valt dus weg.
+
+**Hoofdstukken die ik online kon terugvinden** (paginanummers bij benadering):
+
+| Hoofdstuk | Auteurs | Te kennen? |
+|---|---|---|
+| Kwantitatieve methoden in de onderwijssociologie (p. 113–140) | Demanet | waarschijnlijk H4 of H5 → **controleren** |
+| De onderwijscohortstudie als motor voor de onderwijssociologie (p. 141–154) | Vermeulen & Van der Velden | waarschijnlijk H5 of H6 → **controleren** |
+| Een landkaart van de lespraktijk: sociologisch kijken naar curricula (p. 159–175) | Vermeulen | ja (waarschijnlijk) |
+| Het beroep van leraar (p. 223–246) | Vermeulen, Van der Meer, Van Droogenbroeck | ja |
+| H13 Gender in het onderwijs (p. 291–312) | Volman & Vantieghem | ja |
+| Bevorderen van burgerschap als maatschappelijke opdracht van de school (p. 317–338) | Ten Dam, Dijkstra, Janmaat | ja |
+| Etnische diversiteit in het onderwijs (p. 339–…) | Agirdag | ja |
+| H16 Sociale ontwikkeling en groepsprocessen in de klas | Veenstra & Huitsing | **nee** |
+
+H2, 4, 5 en 6 vallen waarschijnlijk samen met de **methodologische** hoofdstukken (kwantitatief, kwalitatief, cohortstudies). Kijk dit na in de inhoudstafel.
+
+### Kernthema's
+
+**Theoretische perspectieven (meestal in H1, de inleiding):**
+- **Functionalisme** (Durkheim, Parsons, Davis & Moore): onderwijs zorgt voor socialisatie en voor selectie op basis van verdienste (**meritocratie**).
+- **Conflictperspectief** (Bowles & Gintis): onderwijs **reproduceert ongelijkheid**. Volgens de **correspondentiethese** weerspiegelt de school de verhoudingen op de arbeidsmarkt.
 - **Bourdieu**:
   - **cultureel, sociaal en economisch kapitaal**
   - **habitus**
-  - de school beloont de cultuur van de middenklasse, wat leidt tot **sociale reproductie**
+  - de school beloont de cultuur van de middenklasse, wat leidt tot sociale reproductie
 - **Boudon**:
   - **primaire effecten**: verschillen in prestaties volgens afkomst
-  - **secundaire effecten**: verschillende studiekeuzes bij gelijke prestaties
-- **Coleman**: sociaal kapitaal en het Coleman-rapport (het gezin weegt zwaarder dan de school).
-- **Symbolisch interactionisme**: **etikettering**, verwachtingen en de self-fulfilling prophecy.
+  - **secundaire effecten**: verschillende keuzes bij gelijke prestaties
+- **Symbolisch interactionisme**: etikettering, verwachtingen, de self-fulfilling prophecy.
 
-**Hedendaagse Vlaamse thema's:**
-- **Onderwijsongelijkheid** naar SES, etniciteit, gender en thuistaal. Vlaanderen scoort in PISA slecht op gelijke kansen.
-- **Tracking en het watervalsysteem**: vroege studiekeuze, een hiërarchie van onderwijsvormen en (de)motivatie.
-- **Schoolcompositie-effecten** en **segregatie**.
-- **Leraarsverwachtingen**, **academisch optimisme** en **futiliteitsgevoelens** (het onderzoek van Van Houtte).
-- **Interculturaliteit**: meertaligheid en taalbeleid, natievorming via onderwijs, en etnische discriminatie.
-- **Leerlingenculturen** (anti-schoolcultuur), welbevinden en vroegtijdig schoolverlaten.
-- **Lerende samenleving**: levenslang leren, diploma-inflatie en het Matteüseffect.
+**Curriculum (Vermeulen):**
+- Wat wordt onderwezen, en wie beslist dat? Wiens kennis telt?
+- Het **verborgen curriculum**.
+- Link met Apple (2018), vrijblijvend.
 
-**Test jezelf:** Leg het verschil uit tussen primaire en secundaire effecten (Boudon). Hoe verklaart Bourdieu dat kinderen uit hogere klassen het beter doen op school?
+**Het beroep van leraar:**
+- status en professionalisering
+- het lerarentekort (link met Gorard e.a., 2024)
+- stress, burn-out en uitstroom
+- leraarsverwachtingen en academisch optimisme (link met Lelieur e.a., 2023)
+
+**Gender in het onderwijs (Volman & Vantieghem):**
+- Jongens doen het gemiddeld minder goed (meer zittenblijven, meer vroegtijdig schoolverlaten).
+- Meisjes kiezen minder vaak voor STEM.
+- Verklaringen: genderstereotypen, socialisatie, de "anti-schoolse" mannelijkheidsnorm en verwachtingen van leraren.
+- "Een vraagstuk met veel kanten": vermijd simplistische "jongenscrisis"-verhalen.
+
+**Burgerschap (Ten Dam e.a.):**
+- Burgerschapsvorming als **maatschappelijke opdracht** van de school.
+- Kennis, vaardigheden, houdingen en reflectie.
+- De school als oefenplaats voor democratie (schoolklimaat, inspraak).
+- **Ongelijkheid in burgerschapscompetenties** naar SES en onderwijsvorm.
+
+**Etnische diversiteit (Agirdag):**
+- Leerlingen met een migratieachtergrond presteren in Vlaanderen sterk ondermaats.
+- Verklaringen: SES, taal, **segregatie** en schoolcompositie, tracking (watervalsysteem), verwachtingen, discriminatie.
+- **Taalbeleid**: thuistaal als hinderpaal of als hefboom (meertaligheid). Link met Clycq (2017).
+- Link met Yosso (2005): *community cultural wealth* in plaats van een tekortdenken (*deficit thinking*).
+
+**Test jezelf:** Leg het verschil uit tussen primaire en secundaire effecten. Hoe verklaren Bourdieu en het conflictperspectief onderwijsongelijkheid? Welke verklaringen zijn er voor genderverschillen in onderwijsresultaten?
 
 ---
 
 # 4. Effectieve opleidingen
 
-## 4.1 Blanchard, Thacker & Cosby (2023) – Effective Training ⚠️
+## 4.1 Blanchard, Thacker & Cosby (2023) – Effective Training ✅ (hoofdstukken online gecontroleerd)
 
-**Kern.** Dit boek benadert training in organisaties via een **systematisch trainingsprocesmodel** (ADDIE-achtig):
+**Hoofdstukken 7e editie (Sage):**
+1. Training in Organizations
+2. Aligning Training with Strategy
+3. Learning, Motivation, and Performance
+4. Needs Analysis
+5. Training Design
+6. Traditional Training Methods
+7. Electronic Training Methods
+8. Development, Implementation, and Transfer of Training
+9. Evaluation of Training
+10. Employee and Management Development
+11. Key Areas and the Future of Organizational Training
 
-**1. Behoefteanalyse** (*Training Needs Analysis*):
-- **organisatieanalyse**: strategie, middelen, klimaat
-- **operationele of taakanalyse**: wat moet men kunnen (KSA's: kennis, vaardigheden, attitudes)?
-- **persoonsanalyse**: wie heeft training nodig?
-- Belangrijke vraag: is het probleem wel een **trainingsprobleem**, of eerder een kwestie van motivatie, middelen of organisatie?
+**Kern.** Het boek beschrijft training als een **systematisch proces**, het *training process model*. Dat model is ADDIE-achtig: analyse → ontwerp → ontwikkeling → implementatie → evaluatie. Elke fase levert input voor de volgende.
 
-**2. Ontwerp:**
-- **leerdoelen** formuleren (gedrag, voorwaarden, criteria)
-- de juiste **methoden** kiezen
-- **transfer** inbouwen
+**H1–2 – Training in organisaties en strategie**
+- Training staat ten dienste van de **organisatiestrategie** en moet prestatieproblemen oplossen.
+- Er is een verschil tussen **training** (huidige job) en **ontwikkeling** (toekomst).
+- Opleiding en HR moeten aligned zijn met de doelen van de organisatie.
 
-**3. Ontwikkeling** van materialen en methoden. Voorbeelden van methoden:
-- lezing
-- demonstratie
-- casus
-- rollenspel
-- simulatie
-- *on-the-job training*
-- e-learning
+**H3 – Leren, motivatie en prestatie**
+- **Prestatie = f(KSA's, motivatie, omgeving)**. Training lost alleen problemen op die voortkomen uit een tekort aan kennis, vaardigheden of attitudes (KSA's).
+- **Leertheorieën**:
+  - behaviorisme (bekrachtiging)
+  - cognitivisme
+  - **sociale leertheorie** (Bandura: modelling, self-efficacy)
+  - **Gagné** (leerresultaten en instructiegebeurtenissen)
+  - **andragogie** (Knowles: volwassenen zijn zelfgestuurd, brengen ervaring mee, zijn probleemgericht en willen weten *waarom*)
+  - **Kolb** (ervaringsleren)
+- **Motivatietheorieën**:
+  - behoeftentheorieën (Maslow, Alderfer)
+  - **verwachtingstheorie** (Vroom)
+  - doelstellingstheorie
+  - rechtvaardigheidstheorie
 
-**4. Implementatie**: pilot, de rol van de trainer en de leeromgeving.
+**H4 – Behoefteanalyse (TNA)**
+- **Organisatieanalyse**: strategie, middelen, klimaat en steun voor training.
+- **Operationele of taakanalyse**: welke taken en welke KSA's zijn nodig?
+- **Persoonsanalyse**: wie presteert onder de norm, en waarom?
+- Proactieve vs. reactieve analyse. De kernvraag: **is het een trainingsprobleem?** Of gaat het eerder om motivatie, middelen of feedback?
 
-**5. Evaluatie** volgens het **Kirkpatrick-model**:
-1. Reactie
-2. Leren
-3. Gedrag (transfer)
-4. Resultaten
+**H5 – Ontwerp**
+- **Leerdoelen** met drie componenten: gewenst gedrag, voorwaarden en criteria.
+- Factoren die leren en **transfer** beïnvloeden: de leeromgeving, de volgorde, oefening en feedback.
 
-Eventueel komt daar **ROI / kosten-baten** bij.
+**H6–7 – Methoden**
+- **Traditioneel**: lezing, demonstratie, discussie, casus, rollenspel, games en simulaties, gedragsmodellering, *on-the-job training*.
+- **Elektronisch**: e-learning, blended learning, simulaties, mobiel leren.
+- De methode kies je op basis van het leerdoel (kennis, vaardigheid of attitude).
 
-**Theoretische basis:**
-- **Leertheorieën**: Bandura (sociaal leren, modelling), Gagné (instructiegebeurtenissen), andragogie (Knowles: volwassenen leren probleemgericht en zelfgestuurd) en leerstijlen of de leercyclus (Kolb).
-- **Motivatie**: verwachtingstheorie, doelen en behoeften.
-- **Transfer of training** (Baldwin & Ford). Transfer hangt af van:
+**H8 – Ontwikkeling, implementatie en transfer**
+- Materialen ontwikkelen, een **pilot** opzetten, de trainer kiezen en voorbereiden, de dag zelf.
+- **Transfer of training** (Baldwin & Ford) hangt af van:
   - kenmerken van de deelnemer
   - het trainingsontwerp
-  - de **werkomgeving** (steun van de leidinggevende, kans om toe te passen)
+  - de werkomgeving (steun van de leidinggevende, kansen om toe te passen)
+- Rollen van de trainer, de deelnemer en de leidinggevende vóór, tijdens en na de training.
 
-**Test jezelf:** Een directeur wil een nascholing over differentiatie organiseren. Doorloop de vijf fasen en zeg op welk Kirkpatrick-niveau je zou evalueren.
+**H9 – Evaluatie**
+- **Kirkpatrick**: 1 reactie, 2 leren, 3 gedrag, 4 resultaten, aangevuld met **ROI** en kosten-baten.
+- Proces- vs. resultaatevaluatie, evaluatieontwerpen (voor- en nameting, controlegroep) en validiteit.
+
+**H10–11 – Medewerkers- en managementontwikkeling, toekomst**
+- Leiderschapsontwikkeling, coaching en mentoring.
+- Thema's zoals diversiteit, onboarding en technologie.
+
+**Test jezelf:** Een directeur wil een nascholing over differentiatie organiseren. Doorloop de fasen. Hoe ga je na of het een trainingsprobleem is, en op welk Kirkpatrick-niveau evalueer je?
 
 ---
 
@@ -338,34 +450,34 @@ Je moet maar een deel van de hoofdstukken kennen; controleer welke. De kerntheor
 
 **Test jezelf:** Vergelijk Piaget en Vygotsky. Wat betekent elke theorie voor de rol van de leraar?
 
-## 5.2 Vanhoof, Van den Broek, Penninckx, Donche & Van Petegem (2012) – Leerbereidheid van leerlingen aanwakkeren ⚠️
+## 5.2 Vanhoof, Van de Broek, Penninckx, Donche & Van Petegem (2012) – Leerbereidheid van leerlingen aanwakkeren ✅ (10 principes online gecontroleerd)
 
-**Kern.** Dit is een praktijkgericht boek dat **motivatietheorieën vertaalt naar principes voor de klas**. Leerbereidheid hangt niet alleen af van de leerling, maar ook van de **leeromgeving die de leraar creëert**.
+**Kern.** Het boek is een literatuurstudie (UAntwerpen, Edubron) die inzichten uit **motivatietheorieën**, vooral de **zelfdeterminatietheorie**, vertaalt naar **10 praktijkprincipes**. Die zijn bruikbaar "van de kleuterklas tot de universiteitsaula". Er zijn herdrukken verschenen in 2021 en 2023.
 
-**Belangrijkste theorieën:**
+**Theoretische achtergrond**
 - **Zelfdeterminatietheorie** (Deci & Ryan):
-  - drie basisbehoeften: **autonomie, competentie, verbondenheid**
-  - motivatiecontinuüm: amotivatie → externe → geïntrojecteerde → geïdentificeerde → geïntegreerde regulatie → intrinsieke motivatie
-  - **autonome** versus **gecontroleerde** motivatie
-- **Verwachting × waarde** (Eccles): "Kan ik het?" × "Is het de moeite waard?" (interesse, nut, belang, kosten).
-- **Self-efficacy** (Bandura). Bronnen:
-  - succeservaringen
-  - modelling
-  - verbale overtuiging
-  - fysiologische toestand
-- **Attributietheorie** (Weiner): de dimensies locus, stabiliteit en controleerbaarheid. Toeschrijven aan inzet of strategie is beter dan aan aanleg.
-- **Doeloriëntaties**: **beheersingsdoelen** (*mastery*) versus **prestatiedoelen** (*performance*).
-- **Mindset** (Dweck): groei versus vast.
+  - drie psychologische basisbehoeften: **autonomie** (zelf kunnen kiezen en willen), **competentie** (je bekwaam voelen) en **verbondenheid** (relatie, erbij horen)
+  - motivatiecontinuüm: amotivatie → externe → geïntrojecteerde regulatie (gecontroleerd) → geïdentificeerde → geïntegreerde regulatie → intrinsieke motivatie (autonoom)
+  - doel: **autonome** motivatie bevorderen in plaats van gecontroleerde motivatie (belonen, straffen, schuldgevoel)
+- Daarnaast: verwachting × waarde, self-efficacy en attributies.
 
-**Praktische principes:**
-- keuze en inspraak geven
-- de relevantie uitleggen
-- uitdagend maar haalbaar werk geven
-- procesgerichte feedback geven
-- een veilige klasrelatie opbouwen
-- vergelijken en competitie beperken
+**De 10 principes**
+1. **Investeer blijvend in een goede relatie** met leerlingen. Een empathische, stimulerende relatie hangt samen met betere prestaties. *(verbondenheid)*
+2. **Creëer een veilig leerklimaat** met heldere grenzen en een hechte klasgroep. *(verbondenheid + structuur)*
+3. **Kies onderwerpen, werkvormen en activiteiten die de interesse prikkelen.** *(intrinsieke motivatie)*
+4. **Help leerlingen het belang van onderwerpen en taken in te zien**, ook als ze niet spontaan boeien. Leg uit waarom iets zinvol is. *(geïdentificeerde regulatie)*
+5. **Luister oprecht, empathisch en erkennend**, ook naar weerstand en negatieve gevoelens. *(autonomie, verbondenheid)*
+6. **Gebruik autonomie-ondersteunende taal** in plaats van controlerende taal: "je kan..." / "ik stel voor..." in plaats van "je moet...". *(autonomie)*
+7. **Geef structuur die naar het leerdoel toe leidt**: duidelijke verwachtingen, stappen, begeleiding. *(competentie)*
+8. **Bied uitdaging op maat**: niet te hoog en niet te laag. *(competentie)*
+9. **Geef feedback die duidelijk linkt aan wat leerlingen doen en aan het leerdoel**: specifiek, tijdig en regelmatig. Toon dat je **gelooft in hun kunnen** (hoge verwachtingen). *(competentie)*
+10. **Houd voeling met je eigen motivatie en behoeften als leraar** en zoek zelf ondersteuning. Gemotiveerde leraren motiveren.
 
-**Test jezelf:** Een leerling zegt "ik ben gewoon slecht in wiskunde". Welke theorieën helpen je dit te begrijpen, en wat doe je als leraar?
+**Valkuilen**
+- Controlerende beloningen of straffen ondermijnen de intrinsieke motivatie.
+- Structuur is niet hetzelfde als controle. Structuur geven *én* autonomie ondersteunen gaan juist goed samen.
+
+**Test jezelf:** Een leerling zegt "dit is saai, waarom moeten we dit kennen?". Welke principes zet je in? Leg het verschil uit tussen autonome en gecontroleerde motivatie.
 
 ---
 
@@ -457,7 +569,9 @@ Je moet maar een deel van de hoofdstukken kennen; controleer welke. De kerntheor
 
 **Achterliggende idee.** Het werkgeheugen is beperkt. Daarom zijn kleine stappen, inoefening en herhaling nodig om sterke, vlot oproepbare kennis in het langetermijngeheugen op te bouwen.
 
-## 6.5 Simonsen e.a. (2022) – SEB-groei via Tier 2 en 3 binnen MTSS ⚠️
+## 6.5 Simonsen e.a. (2022) – SEB-groei via Tier 2 en 3 binnen MTSS ✅ (abstract online gecontroleerd)
+
+*Hoofdstuk 7 in het Handbook of Classroom Management (3e ed., Routledge). Het abstract bevestigt drie lijnen: Tier 1 differentiëren, Tier 2 gericht inzetten voor leerlingen die meer nodig hebben, en Tier 3 individueel opbouwen op basis van teamgebaseerde assessment, waaronder een functionele gedragsanalyse (FBA).*
 
 **Kern.** Het **Multi-Tiered System of Supports (MTSS)** (verwant aan PBIS en het Vlaamse **zorgcontinuüm**) organiseert ondersteuning in drie lagen voor de **sociale, emotionele en gedragsmatige (SEB)** ontwikkeling.
 
@@ -517,14 +631,14 @@ Je moet maar een deel van de hoofdstukken kennen; controleer welke. De kerntheor
 
 **Kern.** Feedback is een van de krachtigste én goedkoopste hefbomen, maar het effect varieert sterk. Feedback kan het leren zelfs **schaden**. Het gaat niet om de hoeveelheid feedback, maar om de **kwaliteit en het gebruik** ervan.
 
-**De zes aanbevelingen** (EEF-structuur):
+**De zes aanbevelingen** (✅ zoals in de inhoudstafel van de leidraad):
 1. **Leg de basis.** Zorg voor kwaliteitsvolle instructie en formatieve evaluatie, zodat je weet waar de leerling staat ten opzichte van duidelijke leerdoelen.
 2. **Geef goed getimede feedback die het leren vooruithelpt.** De feedback gaat over:
    - de **taak**
    - het **onderwerp/vak**
    - **zelfregulatie** (strategieën)
 
-   Persoonsgerichte feedback ("goed zo, slimme meid") helpt **niet**. Timing: soms onmiddellijk, soms uitgesteld; geen vaste regel.
+   Persoonsgerichte feedback ("goed zo, slimme meid") helpt **niet**. Timing: soms onmiddellijk, soms uitgesteld. Feedback is een *startpunt, geen eindpunt*: je kan ze bv. uitstellen tot een volgende, gelijkaardige opdracht, zodat leerlingen ze meteen toepassen.
 3. **Plan hoe leerlingen feedback ontvangen en gebruiken.**
    - Houd rekening met motivatie, vertrouwen en relatie.
    - Voorzie **tijd om er effectief iets mee te doen**.
@@ -598,20 +712,27 @@ Je moet maar een deel van de hoofdstukken kennen; controleer welke. De kerntheor
 
 Gebruik bij voorkeur een **criteriumgerichte, holistische** beoordeling in plaats van normgericht punten optellen.
 
-## 6.12 De Smet, Bultheel & Verachtert (2024) – Leidraad differentiatie: Samen naar de meet (Leerpunt; naar Bosker e.a. 2021) ⚠️
+## 6.12 De Smet, Bultheel & Verachtert (2024) – Leidraad differentiatie: Samen naar de meet (Leerpunt; naar Bosker e.a. 2021) ✅ (aanbevelingen online gecontroleerd)
 
-**Kern.** **Differentiatie** = het onderwijs (instructie, tijd, ondersteuning, uitdaging) afstemmen op verschillen tussen leerlingen. Het doel is dat **alle leerlingen de gemeenschappelijke doelen halen**: "samen naar de meet". Goed toegepast is differentiatie een **sleutel voor gelijke kansen**. Slecht toegepast vergroot ze de verschillen.
+**Kern.** **Convergente differentiatie**: alle leerlingen werken naar **dezelfde ambitieuze doelen** ("samen naar de meet"). Leerlingen die meer nodig hebben, krijgen extra instructie, tijd of ondersteuning. Zo is differentiatie een **sleutel voor gelijke kansen** en een middel om onderwijsachterstanden weg te werken.
+- Bij **divergente differentiatie** krijgen leerlingen verschillende doelen en tempo's. Daardoor groeien de verschillen. Leerpunt heeft daar een aparte aanvullende leidraad over gemaakt (2025), voor leerlingen die meer nodig hebben dan verlengde instructie.
 
-**Kernboodschappen:**
-- **Convergente differentiatie** krijgt de voorkeur boven divergente differentiatie.
-  - Convergent: dezelfde minimumdoelen voor iedereen, en zwakkere leerlingen krijgen extra instructie en tijd.
-  - Divergent: verschillende doelen en tempo's, waardoor de verschillen groeien.
-- **Basis = sterke klassikale instructie** voor iedereen. Differentiatie komt bovenop goede instructie, niet in de plaats ervan.
-- **Formatief evalueren**: verzamel voortdurend gegevens over waar leerlingen staan en stuur bij (*adaptief onderwijzen*).
-- **Flexibel groeperen binnen de klas**: tijdelijk, op basis van recente data, voor een bepaald doel. Vermijd **vaste niveaugroepen** en vroege, rigide groepering tussen klassen of scholen. Die pakken vooral **nadelig uit voor zwakkere leerlingen** (lagere verwachtingen, minder uitdagend aanbod).
-- **Hoge verwachtingen voor alle leerlingen**.
-- **Verlengde instructie** of pre-teaching voor wie het nodig heeft, en **verrijking/verdieping** (niet "meer van hetzelfde") voor sterke leerlingen.
-- Zorg voor **haalbaarheid**: start klein, werk samen in een team en ondersteun op schoolniveau.
+**De 7 aanbevelingen**
+1. **Start vanuit uitdagende doelen.** Stel hoge verwachtingen en ambitieuze minimumdoelen voor iedereen. Verlaag de lat niet voor zwakkere leerlingen.
+2. **Ken je leerlingen en volg hun ontwikkeling op.** Gebruik toetsen, observaties en **formatieve evaluatie** om te weten wie wat nodig heeft (datagebruik).
+3. **Pas de principes van effectieve instructie toe.** Sterke klassikale instructie is de basis, bv. volgens het **directe-instructiemodel** en Rosenshine. Differentiatie komt bovenop goede instructie.
+4. **Geef leerlingen tijd.** Voorzie **verlengde instructie**, pre-teaching en extra oefentijd voor wie het nodig heeft, en verrijking of verdieping voor wie de doelen al beheerst.
+5. **Werk doelgericht en flexibel in groepen.** Groepeer tijdelijk en op basis van recente data. Vermijd **vaste niveaugroepen**: die pakken nadelig uit voor zwakkere leerlingen (lagere verwachtingen, een armer aanbod).
+6. **Ontwikkel en onderhoud je didactische vaardigheden.** Differentiëren is complex en vraagt professionalisering, bv. coaching of collegiale consultatie.
+7. **Kies een passende schoolbrede aanpak.** Maak afspraken in het team en zorg voor een doorlopende lijn, organisatie (roosters, extra handen) en ondersteuning door de directie.
+
+**Link met andere teksten:**
+- Rosenshine (instructie)
+- Newton en Biggs (evaluatie)
+- Timmermans e.a. (verwachtingen)
+- het expertise-omkeringseffect (Kirschner)
+
+**Test jezelf:** Wat is het verschil tussen convergente en divergente differentiatie? Waarom raadt de leidraad vaste niveaugroepen af?
 
 ## 6.13 Newton (2007) – Clarifying the purposes of educational assessment
 
@@ -652,7 +773,21 @@ Dezelfde summatieve beoordeling kan dus formatief gebruikt worden.
 
 - **Cognitieve architectuur** → Kirschner e.a., Mayer, Rosenshine. Versus het doel-argument van **Kuhn**.
 - **Begeleiding afbouwen** → Rosenshine (scaffolds), Vermunt & Verloop (geleidelijke overdracht van sturing), Kirschner (expertise-omkering).
-- **Verwachtingen en gelijke kansen** → Timmermans e.a., Leidraad differentiatie, Sociologen over onderwijs (etikettering, tracking).
+- **Verwachtingen en gelijke kansen** → Hoy & Miskel H5 (academisch optimisme), Timmermans e.a., Leidraad differentiatie, Sociologen over onderwijs (etikettering, tracking).
 - **Evaluatie** → Biggs (alignment), Newton (doelen), Leidraad feedback, Leidraad differentiatie (formatief).
 - **Zelfregulatie** → Veenman (metacognitie), Vermunt & Verloop, Leidraad feedback (feedback op zelfregulatie), Salomon & Perkins (high road transfer).
-- **Motivatie** → Vanhoof e.a. (leerbereidheid), Hoy & Miskel H5, Blanchard (motivatie voor training).
+- **Motivatie** → Vanhoof e.a. (leerbereidheid), Blanchard (motivatie voor training).
+
+---
+
+# Bronnen gebruikt bij de online controle
+
+- Vanhoof & Van Petegem – [Standaard Boekhandel](https://www.standaardboekhandel.be/p/doeltreffend-schoolbeleid-9789463440288), [Bibliotheek.be (NBD Biblion-recensie)](https://bibliotheek.be/en/catalog/jan-vanhoof/doeltreffend-schoolbeleid-praktijkboek-beleidsvoerend-vermogen-scholen/book/library-marc-vlacc_10073086), [Onderwijsdatabank](https://onderwijsdatabank.nl/99322/doeltreffend-schoolbeleid/), [KU Leuven Obed](https://www.kuleuven.be/thomas/algemeen/obed/item/5/42353/)
+- Hoy & Miskel – [Google Books](https://books.google.com/books/about/Educational_Administration_Theory_Resear.html?id=QSY1AAAAQBAJ), [McGraw-Hill](https://www.mheducation.com/highered/product/educational-administration-theory-research-and-practice-hoy.html), [Hoy & Sweetland 2000](https://journals.sagepub.com/doi/abs/10.1177/105268460001000603), [waynekhoy.com – School AO](https://www.waynekhoy.com/school-ao/)
+- Valcke e.a. – [Acco Shop](https://shop.acco.be/en/items/9789464671650/Onderwijsbeleid-in-Vlaanderen), [UGent bibliotheek](https://lib.ugent.be/nl/catalog/rug01:003160300)
+- Demanet e.a. – [Maklu/Garant](https://www.maklugarant.eu/nl/products/details/sociologen-over-onderwijs-inzichten-praktijken-en-kritieken-jannick-demanet-mieke-van-houtte-marc-vermeulen-9789044139471-337971), [UGent Biblio](https://biblio.ugent.be/publication/01JSY52BH0VY9Y7WEH2GE3N5KN), [KU Leuven – Agirdag](https://ppw.kuleuven.be/ecs/les/staff/00046908/view?sortby=stitle&pubsonpage=20&pubtype=chapter)
+- Blanchard e.a. – [Perlego](https://www.perlego.com/book/4792796/effective-training-systems-strategies-and-practices-pdf), [Sage](https://collegepublishing.sagepub.com/products/effective-training-7-287972)
+- Vanhoof e.a. (Leerbereidheid) – [Edubronblogt UAntwerpen](https://www.uantwerpen.be/nl/onderzoeksgroep/edubron/edubronblogt/leerbereidheid-van-leerlingen-aanwakkeren/), [ResearchGate](https://www.researchgate.net/publication/235433831_Leerbereidheid_van_leerlingen_aanwakkeren_principes_die_motiveren_inspireren_en_werken)
+- Simonsen e.a. – [Taylor & Francis](https://www.taylorfrancis.com/chapters/edit/10.4324/9781003275312-9/supporting-students-social-emotional-behavior-seb-growth-tier-2-3-intervention-within-multi-tiered-system-supports-mtss-framework-brandi-simonsen-karen-robbie-katherine-meyer-jennifer-freeman-susannah-everett-adam-feinberg)
+- Leidraad Feedback – [Leerpunt](https://leerpunt.be/leidraden/feedback)
+- Leidraad Differentiatie – [Leerpunt](https://leerpunt.be/leidraden/differentiatie-onderwijsachterstand-wegwerken), [blog Pedro De Bruyckere](https://pedrodebruyckere.blog/2025/02/06/nieuwe-leerpunt-leidraad-met-7-aanbevelingen-om-via-differentiatie-onderwijsachterstanden-weg-te-werken/)
